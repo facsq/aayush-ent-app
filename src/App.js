@@ -3,6 +3,8 @@ import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import OfferSection from './components/OffeerSection';
 import WhyChooseUsSection from './components/WhyChooseUsSection'
+import GetInTouchSection from './components/GetInTouchSection';
+import Footer from './components/Footer';
 
 
 
@@ -13,6 +15,8 @@ function App() {
       <HeroSection />
       <OfferSection />
       <WhyChooseUsSection />
+      <GetInTouchSection />
+      <Footer />
 
       
     </div>

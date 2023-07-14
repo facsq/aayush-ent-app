@@ -41,6 +41,7 @@ const WhyChooseUsSection = () => {
           </div>
         </div>
       </div>
+      
     </section>
   );
 };
